@@ -1,0 +1,17 @@
+header{
+  background-color: #add8e6;
+  text-align: center;
+  padding: 5pt;
+}
+
+body{
+  background-color: #e0ffff;
+  text-align: center;
+}
+
+p{
+  font-size: 15pt;
+  text-align: justify;
+  padding:50pt;
+  padding-top:20pt;
+}
