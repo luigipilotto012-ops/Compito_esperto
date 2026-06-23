@@ -1,7 +1,10 @@
 header{
-  background-color: #add8e6;
+  background-color: #aFd8d6;
   text-align: center;
   padding: 5pt;
+  position: sticky;
+
+
 }
 
 body{
@@ -12,6 +15,10 @@ body{
 p{
   font-size: 15pt;
   text-align: justify;
-  padding:50pt;
+  padding:100pt;
   padding-top:20pt;
+}
+nav{
+  position: sticky;
+  background-color: inherit;
 }
