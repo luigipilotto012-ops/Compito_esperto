@@ -21,4 +21,10 @@ p{
 nav{
   position: sticky;
   background-color: inherit;
+  text-align: right;
+}
+
+nav a {
+  text-decoration: none;
+
 }
