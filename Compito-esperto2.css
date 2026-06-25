@@ -15,8 +15,8 @@ body{
 p{
   font-size: 15pt;
   text-align: justify;
-  padding:100pt;
-  padding-top:20pt;
+padding-left: 22pt;
+padding-right: 22pt;
 }
 nav{
   position: sticky;
@@ -28,3 +28,11 @@ nav a {
   text-decoration: none;
 
 }
+ul li {  font-size: 14pt;
+  text-align: justify;
+  font-family: Times New Roman;
+  padding-left: 22pt;
+  padding-right: 22pt;
+
+  }
+.Prova   {background-image: "immagini/AI.png"}
